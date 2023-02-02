@@ -5,4 +5,14 @@ body{
 .navbar{
     left:435px;
     right:435px;
-    }
+}
+
+.title{
+    margin-top: 5%;
+    font-family: "Inconsolata", monospace;
+}
+
+.subtitle{
+    font-size: 20px;
+    font-family: "Inconsolata", monospace;
+}
